@@ -1,2 +1,2 @@
-# action.css
-Animation library for CSS.
+# Action.css
+Animation library for CSS3.
