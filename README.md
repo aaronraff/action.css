@@ -1,7 +1,7 @@
 # Action.css
 Animation library for CSS3.
 
-# How to use this library
+### How to use this library
 
 If you would like to use an animation on something you need to add a class of "action".
 
