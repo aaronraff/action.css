@@ -38,5 +38,8 @@ You also need to add a length class to the tag (classes listed below):
 }
 ```
 
-Finally you need to add an animation type class. 
+Finally you need to add an animation type class.
+
 See the action.css file for different types of animation.
+
+Any animations that include a color change can be modified by changing the "background-color" property in the corresponding class.
