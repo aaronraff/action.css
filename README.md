@@ -7,7 +7,7 @@ If you would like to use an animation on something you need to add a class of "a
 
 You also need to add a length class to the tag (classes listed below):
 
-'''css
+```css
 /*Duration Cases*/
 .action-fast {
   -webkit-transition: 0.3s all;
@@ -36,5 +36,5 @@ You also need to add a length class to the tag (classes listed below):
   -o-transition: 1.5s all;
   transition: 1.5s all;
 }
-'''
+```
 
