@@ -36,4 +36,5 @@ You also need to add a length class to the tag (classes listed below):
   -o-transition: 1.5s all;
   transition: 1.5s all;
 }
+'''
 
